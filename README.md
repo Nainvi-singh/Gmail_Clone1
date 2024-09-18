@@ -6,7 +6,6 @@ A full-stack mail application with features similar to Gmail. Users can register
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
-- [Project Structure](#project-structure)
 - [Redux Store](#redux-store)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -79,10 +78,6 @@ A full-stack mail application with features similar to Gmail. Users can register
     ```
 
 10. Open your browser and go to `http://localhost:{PORT}`.
-
-## **Project Structure**
-
-mail-app/ │ ├── client/ # Frontend code │ ├── src/ │ │ ├── components/ # React components (Inbox, Sidebar, SendEmail, Mail) │ │ ├── redux/ # Redux store and slices │ │ ├── App.jsx # Main App component │ │ └── index.js # Entry point for React app │ └── package.json # Client dependencies │ ├── server/ # Backend code │ ├── routes/ # API routes for emails │ ├── models/ # MongoDB models │ └── server.js # Entry point for the server │ ├── .env # Environment variables └── README.md
 
 
 ## **Redux Store**
