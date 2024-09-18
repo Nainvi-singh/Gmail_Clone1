@@ -47,18 +47,18 @@ A full-stack mail application with features similar to Gmail. Users can register
    ```
 4. Clone the backend repository:
    create a backend folder then clone:
- ```
+     ```
      https://github.com/Nainvi-singh/Gmail_clone_backend.git
-  ```
+      ```
    #### To Know More About Backend: [Click Here](https://github.com/Nainvi-singh/Gmail_clone_backend)
 5.Navigate into the project directory:
-    ```
-    cd backend
+     ```
+        cd backend
     ```
 6. Install dependencies:
-  ```
-    npm install
-   ```
+    ```
+        npm install
+       ```
 
 7. Create a `.env` file in the root directory for backend. Example for the backend `.env`:
     ```
