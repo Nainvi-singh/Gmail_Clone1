@@ -1,4 +1,3 @@
-## **Mail Application**
+## **Gmail_Clone_Backend**
 ---
-___
 Backend Repository: (https://github.com/Nainvi-singh/Gmail_clone_backend)
